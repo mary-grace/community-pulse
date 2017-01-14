@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Community Pulse</title>
+    <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://communitypulse.io/</link>
+    <lastBuildDate>Tue, 13 Dec 2016 00:00:00 &#43;0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright>2015-2017 Community Pulse</copyright>
+    <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+    <itunes:summary>Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community.</itunes:summary>
+    <description>Community Builders Mary Thengvall, Jason Hand, and PJ Hagerty interview experts in the field of Community Leadership and Management on a broad range of topics related to building community.</description>
+    <itunes:owner>
+    <itunes:name>Jason Hand</itunes:name>
+    <itunes:email>jason@communitypulse.io</itunes:email>
+    </itunes:owner>
+    <itunes:image href="/img/communitypulse-logo.png" />
+    <itunes:category text="Technology">
+    </itunes:category>
+    
+    <item>
+      <title>Travel Tips - Community Pulse Episode 12</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect), [Davey Shafik](http://twitter.com/dshafik), and [David Blank-Edelman](http://twitter.com/otterbook) to talk travel tips, packing ideas, and what you can&#39;t live without on a plane.</itunes:summary>
+      <description>Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect), [Davey Shafik](http://twitter.com/dshafik), and [David Blank-Edelman](http://twitter.com/otterbook) to talk travel tips, packing ideas, and what you can&#39;t live without on a plane.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/travel-tips/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration>54:30</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Burnout - Part Two - Community Pulse Episode 11</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>The return of guests Jessica Fish and John Willis to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</itunes:summary>
+      <description>The return of guests Jessica Fish and John Willis to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/burnout-p2/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration>47:02</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Burnout - Part One - Community Pulse Episode 10</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests Jessica Fish and John Willis on the topic of burnout in the DevRel community.</itunes:summary>
+      <description>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests Jessica Fish and John Willis on the topic of burnout in the DevRel community.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3</guid>
+      <link>https://mary-grace.github.io/community-pulse/burnout-p1/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration>25:43</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Balancing Your Public And Private Lives - Community Pulse Episode 09</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>In this Halloween-ish episode of Community Pulse, PJ and Mary talk to [Coraline Ada Ehmke](https://twitter.com/CoralineAda) and [Ed Finkler](https://twitter.com/funkatron). We explore the the two sides of the same coin that are the life of technical advocates.</itunes:summary>
+      <description>In this Halloween-ish episode of Community Pulse, PJ and Mary talk to [Coraline Ada Ehmke](https://twitter.com/CoralineAda) and [Ed Finkler](https://twitter.com/funkatron). We explore the the two sides of the same coin that are the life of technical advocates.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_9_-_Public_vs_Private_Life_-_audio_only.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_9_-_Public_vs_Private_Life_-_audio_only.mp3</guid>
+      <link>https://mary-grace.github.io/community-pulse/balancing-public-vs-private-life/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration>45:36</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Jono Bacon: Father Of Community - Community Pulse Episode 02</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Jason and Mary talk to Jono Bacon about the difference between &#39;read&#39; and &#39;write&#39; communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</itunes:summary>
+      <description>Jason and Mary talk to Jono Bacon about the difference between &#39;read&#39; and &#39;write&#39; communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/jono-bacon/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Intrducing PJ - Community Pulse Episode 08</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy.</itunes:summary>
+      <description>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/introducing-pj/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#DevRelsFTW - Community Pulse Episode 06</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>[Jason Yee](https://twitter.com/gitbisect), [PJ Hagerty](https://twiter.com/aspleenic), and [Carina C. Zona](https://twitter.com/cczona) join us to talk through some of the prevalent struggles in community management. Trust us -- you&#39;ll simply want to listen.</itunes:summary>
+      <description>[Jason Yee](https://twitter.com/gitbisect), [PJ Hagerty](https://twiter.com/aspleenic), and [Carina C. Zona](https://twitter.com/cczona) join us to talk through some of the prevalent struggles in community management. Trust us -- you&#39;ll simply want to listen.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/devrelftw/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Making The Jump From One To Many - Community Pulse Episode 07</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</itunes:summary>
+      <description>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/making-the-jump/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Community For Community Professionals - Community Pulse Episode 05</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>[CMX](http://cmxhub.com/) is the community for community professionals. We talk to [David Spinks](https://twitter.com/davidspinks) and [Carrie Jones](https://twitter.com/caremjo) about the future of community professionals.</itunes:summary>
+      <description>[CMX](http://cmxhub.com/) is the community for community professionals. We talk to [David Spinks](https://twitter.com/davidspinks) and [Carrie Jones](https://twitter.com/caremjo) about the future of community professionals.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/community-for-community-professionals/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Metrics: Arch Nemesis Of The Community Builder - Community Pulse Episode 04</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Metrics tend to be the community builder&#39;s arch nemesis. In this episode, Jason and Mary sit down with community folks from Keen and Bitergia.</itunes:summary>
+      <description>Metrics tend to be the community builder&#39;s arch nemesis. In this episode, Jason and Mary sit down with community folks from Keen and Bitergia.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/metrics/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Andrew Hyde: Pursue Your Passions - Community Pulse Episode 03</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Community builder and organizer [Andrew Hyde](http://twitter.com/andrewhyde) talks about how to pursue your passions in this episode of Community Pulse.</itunes:summary>
+      <description>Community builder and organizer [Andrew Hyde](http://twitter.com/andrewhyde) talks about how to pursue your passions in this episode of Community Pulse.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/andrew-hyde/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Meet The Hosts - Community Pulse Episode 01</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Get to know the hosts of the new Community Pulse podcast: [Jason Hand](http://twitter.com/jasonhand) and [Mary Thengvall](http://twitter.com/mary_grace).</itunes:summary>
+      <description>Get to know the hosts of the new Community Pulse podcast: [Jason Hand](http://twitter.com/jasonhand) and [Mary Thengvall](http://twitter.com/mary_grace).</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/meet-the-hosts/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title> - Community Pulse Episode 13</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Mary, Jason, and PJ sit down with [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) to talk about how to plan for a new year.</itunes:summary>
+      <description>Mary, Jason, and PJ sit down with [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) to talk about how to plan for a new year.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse/new-year-new-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
