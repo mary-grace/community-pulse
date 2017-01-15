@@ -29,7 +29,7 @@
     </itunes:category>
     
     <item>
-      <title> - Community Pulse Episode 13</title>
+      <title>New Year, New Plan - Community Pulse Episode 13</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Mary, Jason, and PJ sit down with [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) to talk about how to plan for a new year.</itunes:summary>
       <description>Mary, Jason, and PJ sit down with [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) to talk about how to plan for a new year.</description>
@@ -42,13 +42,13 @@
     </item>
     
     <item>
-      <title>Travel Tips - Community Pulse Episode 12</title>
+      <title>Same Job, New City - Community Pulse Episode 12</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect), [Davey Shafik](http://twitter.com/dshafik), and [David Blank-Edelman](http://twitter.com/otterbook) to talk travel tips, packing ideas, and what you can&#39;t live without on a plane.</itunes:summary>
       <description>Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect), [Davey Shafik](http://twitter.com/dshafik), and [David Blank-Edelman](http://twitter.com/otterbook) to talk travel tips, packing ideas, and what you can&#39;t live without on a plane.</description>
-      <enclosure url="" length="" type="audio/mpeg" />
-      <guid></guid>
-      <link>https://mary-grace.github.io/community-pulse-source/travel-tips/</link>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_12_-_Travel_Tips.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_12_-_Travel_Tips.mp3</guid>
+      <link>https://mary-grace.github.io/community-pulse-source/same-job-new-city/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000 </pubDate>
       <itunes:duration>54:30</itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -57,10 +57,10 @@
     <item>
       <title>Burnout - Part Two - Community Pulse Episode 11</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>The return of guests Jessica Fish and John Willis to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</itunes:summary>
-      <description>The return of guests Jessica Fish and John Willis to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</description>
-      <enclosure url="" length="" type="audio/mpeg" />
-      <guid></guid>
+      <itunes:summary>The return of guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</itunes:summary>
+      <description>The return of guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_11_-_Burnout_Part_Two.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_11_-_Burnout_Part_Two.mp3</guid>
       <link>https://mary-grace.github.io/community-pulse-source/burnout-p2/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000 </pubDate>
       <itunes:duration>47:02</itunes:duration>
@@ -70,8 +70,8 @@
     <item>
       <title>Burnout - Part One - Community Pulse Episode 10</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests Jessica Fish and John Willis on the topic of burnout in the DevRel community.</itunes:summary>
-      <description>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests Jessica Fish and John Willis on the topic of burnout in the DevRel community.</description>
+      <itunes:summary>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) on the topic of burnout in the DevRel community.</itunes:summary>
+      <description>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) on the topic of burnout in the DevRel community.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3</guid>
       <link>https://mary-grace.github.io/community-pulse-source/burnout-p1/</link>
@@ -81,7 +81,7 @@
     </item>
     
     <item>
-      <title>Balancing Your Public And Private Lives - Community Pulse Episode 09</title>
+      <title>Balancing Public &amp; Private Lives - Community Pulse Episode 09</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>In this Halloween-ish episode of Community Pulse, PJ and Mary talk to [Coraline Ada Ehmke](https://twitter.com/CoralineAda) and [Ed Finkler](https://twitter.com/funkatron). We explore the the two sides of the same coin that are the life of technical advocates.</itunes:summary>
       <description>In this Halloween-ish episode of Community Pulse, PJ and Mary talk to [Coraline Ada Ehmke](https://twitter.com/CoralineAda) and [Ed Finkler](https://twitter.com/funkatron). We explore the the two sides of the same coin that are the life of technical advocates.</description>
@@ -94,27 +94,27 @@
     </item>
     
     <item>
-      <title>Jono Bacon: Father Of Community - Community Pulse Episode 02</title>
+      <title>Intrducing PJ - Community Pulse Episode 08</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>Jason and Mary talk to Jono Bacon about the difference between &#39;read&#39; and &#39;write&#39; communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</itunes:summary>
-      <description>Jason and Mary talk to Jono Bacon about the difference between &#39;read&#39; and &#39;write&#39; communities, how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</description>
+      <itunes:summary>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy. Jason and Mary talk about why they&#39;ve decided to add a third person, as well as their plan for the next few episodes and their hopes for the podcast going forward.</itunes:summary>
+      <description>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy. Jason and Mary talk about why they&#39;ve decided to add a third person, as well as their plan for the next few episodes and their hopes for the podcast going forward.</description>
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
-      <link>https://mary-grace.github.io/community-pulse-source/jono-bacon/</link>
-      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000 </pubDate>
+      <link>https://mary-grace.github.io/community-pulse-source/introducing-pj/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
     <item>
-      <title>Intrducing PJ - Community Pulse Episode 08</title>
+      <title>Making A Jump From One To Many - Community Pulse Episode 07</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy.</itunes:summary>
-      <description>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy.</description>
+      <itunes:summary>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</itunes:summary>
+      <description>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</description>
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
-      <link>https://mary-grace.github.io/community-pulse-source/introducing-pj/</link>
-      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000 </pubDate>
+      <link>https://mary-grace.github.io/community-pulse-source/making-the-jump/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
@@ -133,19 +133,6 @@
     </item>
     
     <item>
-      <title>Making The Jump From One To Many - Community Pulse Episode 07</title>
-      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</itunes:summary>
-      <description>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</description>
-      <enclosure url="" length="" type="audio/mpeg" />
-      <guid></guid>
-      <link>https://mary-grace.github.io/community-pulse-source/making-the-jump/</link>
-      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000 </pubDate>
-      <itunes:duration></itunes:duration>
-      <itunes:explicit></itunes:explicit>
-    </item>
-    
-    <item>
       <title>The Community For Community Professionals - Community Pulse Episode 05</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>[CMX](http://cmxhub.com/) is the community for community professionals. We talk to [David Spinks](https://twitter.com/davidspinks) and [Carrie Jones](https://twitter.com/caremjo) about the future of community professionals.</itunes:summary>
@@ -153,7 +140,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>https://mary-grace.github.io/community-pulse-source/community-for-community-professionals/</link>
-      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000 </pubDate>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
@@ -166,7 +153,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>https://mary-grace.github.io/community-pulse-source/metrics/</link>
-      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000 </pubDate>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
@@ -179,6 +166,19 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>https://mary-grace.github.io/community-pulse-source/andrew-hyde/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Jono Bacon: Father Of Community - Community Pulse Episode 02</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between &#39;read&#39; and &#39;write&#39; communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</itunes:summary>
+      <description>Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between &#39;read&#39; and &#39;write&#39; communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>https://mary-grace.github.io/community-pulse-source/jono-bacon/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
