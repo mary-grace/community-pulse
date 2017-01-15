@@ -20,7 +20,7 @@
 All Episodes 
 &lt;div class=&quot;row&quot;&gt; {{ $paginator := .Paginate (where .Data.Pages &quot;Type&quot; &quot;episode&quot;) }} {{ range $paginator.Pages }} &lt;div class=&quot;col-md-4&quot;&gt; &lt;div class=&quot;episode-image-homepage&quot;&gt; &lt;a href=&quot;{{ .Permalink }}&quot;&gt; &lt;div&gt; {{ title .Title }} (Episode {{ .Params.episode }}) &lt;/div&gt; &lt;/a&gt; &lt;div&gt; {{ .Description | markdownify }} &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; {{ end }} &lt;/div&gt; &lt;/section&gt; &lt;!--pagination--&gt;  {{ template &#34;_internal/pagination.html&#34; . }}   &lt;!--pagination--&gt;  {{ partial &ldquo;footer.html&rdquo; . }}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://mary-grace.github.io/community-pulse/episodes/" />
+<meta property="og:url" content="https://mary-grace.github.io/community-pulse-source/episodes/" />
 
 
 
@@ -83,7 +83,7 @@ All Episodes
       
 
 </title>
-<link rel="canonical" href="https://mary-grace.github.io/community-pulse/episodes/">
+<link rel="canonical" href="https://mary-grace.github.io/community-pulse-source/episodes/">
 <link href="/css/bootstrap.css" rel="stylesheet">
 <link href="/css/offcanvas.css" rel="stylesheet">
 <link href="/css/style.css" rel="stylesheet">
@@ -223,7 +223,6 @@ All Episodes
   </div>
 </div>
  </div>
-
 <script src="/js/jquery.min.js"></script>
 
 <script src="/js/bootstrap.min.js"></script>
