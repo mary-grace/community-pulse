@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Fri, 13 Jan 2017 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Let&#39;S Start At The Very Beginning - Community Pulse Episode 14</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Jason, Mary, and PJ sit down to talk to [Kim Bannerman](http://twitter.com/kmbannerman) and [Eamon Leonard](http://twitter.com/eamonleonard) about how to start a community. We meander down that topic while exploring the rabbit holes of burnout, dealing with difficult community members, who actually makes up a community, what separates a leader from a participant, and more.</itunes:summary>
+      <description>Jason, Mary, and PJ sit down to talk to [Kim Bannerman](http://twitter.com/kmbannerman) and [Eamon Leonard](http://twitter.com/eamonleonard) about how to start a community. We meander down that topic while exploring the rabbit holes of burnout, dealing with difficult community members, who actually makes up a community, what separates a leader from a participant, and more.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep14-beginning.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep14-beginning.mp3</guid>
+      <link>http://communitypulse.io/beginning/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000 </pubDate>
+      <itunes:duration>51:34</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>New Year, New Plan - Community Pulse Episode 13</title>
