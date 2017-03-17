@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Mon, 13 Feb 2017 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Ignite&#39;Ing Your Community - Community Pulse Episode 15</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Jason and Mary chat with some of the top people behind [Ignite Talks](http://ignitetalks.io) about building communities, drawing people together, and how to know when your plans need to pivot.</itunes:summary>
+      <description>Jason and Mary chat with some of the top people behind [Ignite Talks](http://ignitetalks.io) about building communities, drawing people together, and how to know when your plans need to pivot.</description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>http://communitypulse.io/ignite/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
       <title>Let&#39;S Start At The Very Beginning - Community Pulse Episode 14</title>
@@ -70,8 +83,8 @@
     <item>
       <title>Burnout - Part Two - Community Pulse Episode 11</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>The return of guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</itunes:summary>
-      <description>The return of guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) to discuss recognizing burnout and dealing with it. Hosted by Mary Thengvall, Jason Hand, and PJ Hagerty.</description>
+      <itunes:summary>[Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) return more discussions around burnout. This time, Jason, Mary, and PJ talk to them about recognizing burnout in both yourself and others, and how to deal with it.</itunes:summary>
+      <description>[Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) return more discussions around burnout. This time, Jason, Mary, and PJ talk to them about recognizing burnout in both yourself and others, and how to deal with it.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_11_-_Burnout_Part_Two.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_11_-_Burnout_Part_Two.mp3</guid>
       <link>http://communitypulse.io/burnout-p2/</link>
@@ -83,8 +96,8 @@
     <item>
       <title>Burnout - Part One - Community Pulse Episode 10</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) on the topic of burnout in the DevRel community.</itunes:summary>
-      <description>Your hosts Jason Hand, Mary Thengvall, and PJ Hagerty in conversation with guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) on the topic of burnout in the DevRel community.</description>
+      <itunes:summary>Hosts Jason Hand, Mary Thengvall, and PJ Hagerty talk to guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) about the very real problem of burnout in the DevRel community. In this two part series, we discuss why it&#39;s an issue, how to recognize it, and how to prevent it.</itunes:summary>
+      <description>Hosts Jason Hand, Mary Thengvall, and PJ Hagerty talk to guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) about the very real problem of burnout in the DevRel community. In this two part series, we discuss why it&#39;s an issue, how to recognize it, and how to prevent it.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3</guid>
       <link>http://communitypulse.io/burnout-p1/</link>
@@ -208,19 +221,6 @@
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Ignite&#39;Ing Your Community - Community Pulse Episode 15</title>
-      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>While none of our guests for this episode have `&#34;Community Manager&#34;` in their title, these folks know a lot about building local communities. Jason and Mary chat with the founder of Ignite talks about building communities, drawing people together, and how to know when your plans need to pivot.</itunes:summary>
-      <description>While none of our guests for this episode have `&#34;Community Manager&#34;` in their title, these folks know a lot about building local communities. Jason and Mary chat with the founder of Ignite talks about building communities, drawing people together, and how to know when your plans need to pivot.</description>
-      <enclosure url="" length="" type="audio/mpeg" />
-      <guid></guid>
-      <link>http://communitypulse.io/ignite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000 </pubDate>
-      <itunes:duration></itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
     </item>
     
   </channel>
