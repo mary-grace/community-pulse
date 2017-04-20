@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>DevOpsDays And Beyond - Community Pulse Episode 16</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>After all 3 hosts being in the same physical place at the same time, Mary, Jason, and PJ come together to recap DevOpsDays, talk about different communities, and chat about all the things we&#39;re thinking.</itunes:summary>
+      <description>After all 3 hosts being in the same physical place at the same time, Mary, Jason, and PJ come together to recap DevOpsDays, talk about different communities, and chat about all the things we&#39;re thinking.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep16-devopsdays.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep16-devopsdays.mp3</guid>
+      <link>http://communitypulse.io/devopsdays/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000 </pubDate>
+      <itunes:duration>42:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
       <title>Ignite&#39;Ing Your Community - Community Pulse Episode 15</title>
