@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://communitypulse.io/anil-dash/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/devopsdays/</loc>
     <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -138,7 +143,7 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,7 +155,7 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,6 +208,12 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/thought-leaders/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -29,6 +29,19 @@
     </itunes:category>
     
     <item>
+      <title>The Importance Of Interaction (Ep 17) - Community Pulse Episode 17</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>In this episode, Mary, Jason, and PJ sit down with the illustrious Anil Dash of Fog Creek Software to discuss interactions with people, why DevRel is so important yet misunderstood, and Anil&#39;s cool new project, Glitch.com.</itunes:summary>
+      <description>In this episode, Mary, Jason, and PJ sit down with the illustrious Anil Dash of Fog Creek Software to discuss interactions with people, why DevRel is so important yet misunderstood, and Anil&#39;s cool new project, Glitch.com.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep17-importance-of-interaction.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep17-importance-of-interaction.mp3</guid>
+      <link>http://communitypulse.io/anil-dash/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000 </pubDate>
+      <itunes:duration>01:10:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
       <title>DevOpsDays And Beyond - Community Pulse Episode 16</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>After all 3 hosts being in the same physical place at the same time, Mary, Jason, and PJ come together to recap DevOpsDays, talk about different communities, and chat about all the things we&#39;re thinking.</itunes:summary>
