@@ -1,48 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://communitypulse.io/anil-dash/</loc>
+    <loc>http://communitypulse.io/20-meetups/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/19-2017review/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/18-justin-reese/</loc>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/17-anil-dash/</loc>
     <lastmod>2017-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/devopsdays/</loc>
+    <loc>http://communitypulse.io/16-devopsdays/</loc>
     <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/ignite/</loc>
+    <loc>http://communitypulse.io/15-ignite/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/beginning/</loc>
+    <loc>http://communitypulse.io/14-beginning/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/new-year-new-plan/</loc>
+    <loc>http://communitypulse.io/13-new-year-new-plan/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/same-job-new-city/</loc>
+    <loc>http://communitypulse.io/12-same-job-new-city/</loc>
     <lastmod>2016-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/burnout-p2/</loc>
+    <loc>http://communitypulse.io/11-burnout-p2/</loc>
     <lastmod>2016-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/burnout-p1/</loc>
+    <loc>http://communitypulse.io/10-burnout-p1/</loc>
     <lastmod>2016-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/balancing-public-vs-private-life/</loc>
+    <loc>http://communitypulse.io/09-balancing-public-vs-private-life/</loc>
     <lastmod>2016-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -52,27 +68,27 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/introducing-pj/</loc>
+    <loc>http://communitypulse.io/08-introducing-pj/</loc>
     <lastmod>2016-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/making-the-jump/</loc>
+    <loc>http://communitypulse.io/07-making-the-jump/</loc>
     <lastmod>2016-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/devrelsftw/</loc>
+    <loc>http://communitypulse.io/06-devrelsftw/</loc>
     <lastmod>2016-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/community-for-community-professionals/</loc>
+    <loc>http://communitypulse.io/05-community-for-community-professionals/</loc>
     <lastmod>2016-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/metrics/</loc>
+    <loc>http://communitypulse.io/04-metrics/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -87,17 +103,17 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/andrew-hyde/</loc>
+    <loc>http://communitypulse.io/03-andrew-hyde/</loc>
     <lastmod>2015-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/jono-bacon/</loc>
+    <loc>http://communitypulse.io/02-jono-bacon/</loc>
     <lastmod>2015-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/meet-the-hosts/</loc>
+    <loc>http://communitypulse.io/01-meet-the-hosts/</loc>
     <lastmod>2015-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,13 +124,13 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
-    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/categories/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,12 +154,13 @@
   
   <url>
     <loc>http://communitypulse.io/categories/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,7 +172,7 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,6 +225,7 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

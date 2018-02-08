@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,52 +29,91 @@
     </itunes:category>
     
     <item>
-      <title>The Importance Of Interaction - Community Pulse Episode 17</title>
+      <title>Meetups - Community Pulse Episode 20</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Mary, Jason, and PJ get together to kick off 2018 with a chat about meetups! What makes a great meetup? Are branded meetups valuable? Let&#39;s find out.</itunes:summary>
+      <description>Mary, Jason, and PJ get together to kick off 2018 with a chat about meetups! What makes a great meetup? Are branded meetups valuable? Let&#39;s find out.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep19-2017review.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep19-2017review.mp3</guid>
+      <link>http://communitypulse.io/20-meetups/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>27:48</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>2017 in Review - Community Pulse Episode 19</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Jason, Mary, and PJ do an end of year wrap-up on the highs, lows, and day-to-day of 2017. We talk about the tough parts of being in DevRel, the importance of diversity, and other topics we&#39;ve seen this year.</itunes:summary>
+      <description>Jason, Mary, and PJ do an end of year wrap-up on the highs, lows, and day-to-day of 2017. We talk about the tough parts of being in DevRel, the importance of diversity, and other topics we&#39;ve seen this year.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep19-2017review.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep19-2017review.mp3</guid>
+      <link>http://communitypulse.io/19-2017review/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000 </pubDate>
+      <itunes:duration>55:50</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Justin Reese at Uptime Conf (Episode 18) - Community Pulse Episode 18</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Episode 18 finds Jason and PJ in Pittsburgh at Uptime Conf! We took the opportunity to sit down with Community Organizer and Pittsburgh Advocate, Justin Reese.</itunes:summary>
+      <description>Episode 18 finds Jason and PJ in Pittsburgh at Uptime Conf! We took the opportunity to sit down with Community Organizer and Pittsburgh Advocate, Justin Reese.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep18-justinreese-uptimeconf.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep18-justinreese-uptimeconf.mp3</guid>
+      <link>http://communitypulse.io/18-justin-reese/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000 </pubDate>
+      <itunes:duration>26:19</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Importance of Interaction - Community Pulse Episode 17</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>In this episode, Mary, Jason, and PJ sit down with the illustrious [Anil Dash](https://twitter.com/anildash) of Fog Creek Software to discuss interactions with people, why DevRel is so important yet misunderstood, and Anil&#39;s cool new project, [Glitch](https://glitch.com/).</itunes:summary>
       <description>In this episode, Mary, Jason, and PJ sit down with the illustrious [Anil Dash](https://twitter.com/anildash) of Fog Creek Software to discuss interactions with people, why DevRel is so important yet misunderstood, and Anil&#39;s cool new project, [Glitch](https://glitch.com/).</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep17-importance-of-interaction.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep17-importance-of-interaction.mp3</guid>
-      <link>http://communitypulse.io/anil-dash/</link>
+      <link>http://communitypulse.io/17-anil-dash/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000 </pubDate>
       <itunes:duration>01:10:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     
     <item>
-      <title>DevOpsDays And Beyond - Community Pulse Episode 16</title>
+      <title>DevOpsDays and Beyond - Community Pulse Episode 16</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>After all 3 hosts being in the same physical place at the same time, Mary, Jason, and PJ come together to recap DevOpsDays, talk about different communities, and chat about all the things we&#39;re thinking.</itunes:summary>
       <description>After all 3 hosts being in the same physical place at the same time, Mary, Jason, and PJ come together to recap DevOpsDays, talk about different communities, and chat about all the things we&#39;re thinking.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep16-devopsdays.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep16-devopsdays.mp3</guid>
-      <link>http://communitypulse.io/devopsdays/</link>
+      <link>http://communitypulse.io/16-devopsdays/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000 </pubDate>
       <itunes:duration>42:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     
     <item>
-      <title>Ignite&#39;Ing Your Community - Community Pulse Episode 15</title>
+      <title>Ignite&#39;ing Your Community - Community Pulse Episode 15</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Jason and Mary chat with some of the top people behind [Ignite Talks](http://ignitetalks.io) about building communities, drawing people together, and how to know when your plans need to pivot.</itunes:summary>
       <description>Jason and Mary chat with some of the top people behind [Ignite Talks](http://ignitetalks.io) about building communities, drawing people together, and how to know when your plans need to pivot.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep15-igniteing-communities.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep15-igniteing-communities.mp3</guid>
-      <link>http://communitypulse.io/ignite/</link>
+      <link>http://communitypulse.io/15-ignite/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000 </pubDate>
       <itunes:duration>40:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     
     <item>
-      <title>Let&#39;S Start At The Very Beginning - Community Pulse Episode 14</title>
+      <title>Let&#39;s Start at the Very Beginning - Community Pulse Episode 14</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Jason, Mary, and PJ talk to [Kim Bannerman](http://twitter.com/kmbannerman) &amp; [Eamon Leonard](http://twitter.com/eamonleonard) about how to start a community. We also explore who makes up a community, what separates leaders from participants, and more.</itunes:summary>
       <description>Jason, Mary, and PJ talk to [Kim Bannerman](http://twitter.com/kmbannerman) &amp; [Eamon Leonard](http://twitter.com/eamonleonard) about how to start a community. We also explore who makes up a community, what separates leaders from participants, and more.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep14-beginning.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep14-beginning.mp3</guid>
-      <link>http://communitypulse.io/beginning/</link>
+      <link>http://communitypulse.io/14-beginning/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000 </pubDate>
       <itunes:duration>51:34</itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -87,7 +126,7 @@
       <description>Mary, Jason, and PJ talk to [Ken Mugrage](http://twitter.com/kmugrage) and [Matthew Broberg](http://twitter.com/mjbrender) about how to plan for a new year. We work through what a retrospective is (and why it might be useful), as well as how to prioritize &amp; measure your work.</description>
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
-      <link>http://communitypulse.io/new-year-new-plan/</link>
+      <link>http://communitypulse.io/13-new-year-new-plan/</link>
       <pubDate>Fri, 13 Jan 2017 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -100,7 +139,7 @@
       <description>Mary and PJ get together with [Jason Yee](http://twitter.com/gitbisect) (at an airport), [Davey Shafik](http://twitter.com/dshafik) (just home from a trip), and [David Blank-Edelman](http://twitter.com/otterbook) (in a hotel room) to talk travel tips, packing ideas, and what you can&#39;t live without on a plane.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_12_-_Travel_Tips.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_12_-_Travel_Tips.mp3</guid>
-      <link>http://communitypulse.io/same-job-new-city/</link>
+      <link>http://communitypulse.io/12-same-job-new-city/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000 </pubDate>
       <itunes:duration>54:30</itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -113,7 +152,7 @@
       <description>[Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) return more discussions around burnout. This time, Jason, Mary, and PJ talk to them about recognizing burnout in both yourself and others, and how to deal with it.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_11_-_Burnout_Part_Two.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_11_-_Burnout_Part_Two.mp3</guid>
-      <link>http://communitypulse.io/burnout-p2/</link>
+      <link>http://communitypulse.io/11-burnout-p2/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000 </pubDate>
       <itunes:duration>47:02</itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -126,7 +165,7 @@
       <description>Hosts Jason Hand, Mary Thengvall, and PJ Hagerty talk to guests [Jessica Fish](https://twitter.com/fishica) and [John Willis](https://twitter.com/botchagalupe) about the very real problem of burnout in the DevRel community. In this two part series, we discuss why it&#39;s an issue, how to recognize it, and how to prevent it.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_10_-_Burnout_Part_One.mp3</guid>
-      <link>http://communitypulse.io/burnout-p1/</link>
+      <link>http://communitypulse.io/10-burnout-p1/</link>
       <pubDate>Mon, 21 Nov 2016 00:00:00 +0000 </pubDate>
       <itunes:duration>25:43</itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -139,7 +178,7 @@
       <description>In this Halloween-ish episode of Community Pulse, PJ and Mary talk to [Coraline Ada Ehmke](https://twitter.com/CoralineAda) and [Ed Finkler](https://twitter.com/funkatron). We explore the the two sides of the same coin that are the life of technical advocates.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_9_-_Public_vs_Private_Life_-_audio_only.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/Community_Pulse_-_Episode_9_-_Public_vs_Private_Life_-_audio_only.mp3</guid>
-      <link>http://communitypulse.io/balancing-public-vs-private-life/</link>
+      <link>http://communitypulse.io/09-balancing-public-vs-private-life/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000 </pubDate>
       <itunes:duration>45:36</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
@@ -152,20 +191,20 @@
       <description>The one where we introduce [PJ Hagerty](https://twitter.com/aspleenic), the new guy. Jason and Mary talk about why they&#39;ve decided to add a third person, as well as their plan for the next few episodes and their hopes for the podcast going forward.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep08-introducing-pj.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep08-introducing-pj.mp3</guid>
-      <link>http://communitypulse.io/introducing-pj/</link>
+      <link>http://communitypulse.io/08-introducing-pj/</link>
       <pubDate>Wed, 27 Jul 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
     <item>
-      <title>Making A Jump From One To Many - Community Pulse Episode 07</title>
+      <title>Making a Jump From One to Many - Community Pulse Episode 07</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</itunes:summary>
       <description>In this episode of Community Pulse we were joined by [Nathen Harvey](https://twitter.com/nathenharvey) (VP of Community Development, Chef) and [Phil Leggetter](https://twitter.com/leggetter) (Head of Developer Relations, Nexmo) to talk about learning to scale a community role.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep07-making-the-jump.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep07-making-the-jump.mp3</guid>
-      <link>http://communitypulse.io/making-the-jump/</link>
+      <link>http://communitypulse.io/07-making-the-jump/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -178,33 +217,33 @@
       <description>[Jason Yee](https://twitter.com/gitbisect), [PJ Hagerty](https://twiter.com/aspleenic), and [Carina C. Zona](https://twitter.com/cczona) join us to talk through some of the prevalent struggles in community management. Trust us -- you&#39;ll simply want to listen.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep06-devrelftw.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep06-devrelftw.mp3</guid>
-      <link>http://communitypulse.io/devrelsftw/</link>
+      <link>http://communitypulse.io/06-devrelsftw/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
     <item>
-      <title>The Community For Community Professionals - Community Pulse Episode 05</title>
+      <title>The Community for Community Professionals - Community Pulse Episode 05</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>[CMX](http://cmxhub.com/) is the community for community professionals. We talk to [David Spinks](https://twitter.com/davidspinks) and [Carrie Jones](https://twitter.com/caremjo) about the future of community professionals.</itunes:summary>
       <description>[CMX](http://cmxhub.com/) is the community for community professionals. We talk to [David Spinks](https://twitter.com/davidspinks) and [Carrie Jones](https://twitter.com/caremjo) about the future of community professionals.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep05-community-for-community-professionals.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep05-community-for-community-professionals.mp3</guid>
-      <link>http://communitypulse.io/community-for-community-professionals/</link>
+      <link>http://communitypulse.io/05-community-for-community-professionals/</link>
       <pubDate>Sat, 30 Jan 2016 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
     <item>
-      <title>Metrics: Arch Nemesis Of The Community Builder - Community Pulse Episode 04</title>
+      <title>Metrics: Arch Nemesis of the Community Builder - Community Pulse Episode 04</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Metrics tend to be the community builder&#39;s arch nemesis. In this episode, Jason and Mary sit down with community folks from Keen and Bitergia.</itunes:summary>
       <description>Metrics tend to be the community builder&#39;s arch nemesis. In this episode, Jason and Mary sit down with community folks from Keen and Bitergia.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep04-metrics.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep04-metrics.mp3</guid>
-      <link>http://communitypulse.io/metrics/</link>
+      <link>http://communitypulse.io/04-metrics/</link>
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
@@ -217,34 +256,47 @@
       <description>Community builder and organizer [Andrew Hyde](http://twitter.com/andrewhyde) talks about how to pursue your passions in this episode of Community Pulse.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep03-andrew-hyde.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep03-andrew-hyde.mp3</guid>
-      <link>http://communitypulse.io/andrew-hyde/</link>
+      <link>http://communitypulse.io/03-andrew-hyde/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
     <item>
-      <title>Jono Bacon: Father Of Community - Community Pulse Episode 02</title>
+      <title>Jono Bacon: Father of Community - Community Pulse Episode 02</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between &#39;read&#39; and &#39;write&#39; communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</itunes:summary>
       <description>Jason and Mary talk to [Jono Bacon](https://twitter.com/jonobacon) about the difference between &#39;read&#39; and &#39;write&#39; communities. We also cover how difficult (and important!) it is for us to define our role, how to deal with our harshest critics, and more.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep02-jono-bacon.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep02-jono-bacon.mp3</guid>
-      <link>http://communitypulse.io/jono-bacon/</link>
+      <link>http://communitypulse.io/02-jono-bacon/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
     <item>
-      <title>Meet The Hosts - Community Pulse Episode 01</title>
+      <title>Meet the Hosts - Community Pulse Episode 01</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Get to know the hosts of the new Community Pulse podcast: [Jason Hand](http://twitter.com/jasonhand) and [Mary Thengvall](http://twitter.com/mary_grace).</itunes:summary>
       <description>Get to know the hosts of the new Community Pulse podcast: [Jason Hand](http://twitter.com/jasonhand) and [Mary Thengvall](http://twitter.com/mary_grace).</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep01-meet-the-hosts.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep01-meet-the-hosts.mp3</guid>
-      <link>http://communitypulse.io/meet-the-hosts/</link>
+      <link>http://communitypulse.io/01-meet-the-hosts/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Episodes - Community Pulse Episode </title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary></itunes:summary>
+      <description></description>
+      <enclosure url="" length="" type="audio/mpeg" />
+      <guid></guid>
+      <link>http://communitypulse.io/episode/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
