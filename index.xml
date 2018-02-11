@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Fri, 9 Feb 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Breaking Into DevRel - Community Pulse Episode 21</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Defining Developer Relations is a difficult thing to do. So how do you know what to expect when you transition into Community &amp; DevRel? This month, PJ and Mary chat with [Emily Freeman](https://twitter.com/editingemily) and [Chloe Condon](https://twitter.com/ChloeCondon) about how their initial experience has been and what they&#39;d do differently if they had a choice.</itunes:summary>
+      <description>Defining Developer Relations is a difficult thing to do. So how do you know what to expect when you transition into Community &amp; DevRel? This month, PJ and Mary chat with [Emily Freeman](https://twitter.com/editingemily) and [Chloe Condon](https://twitter.com/ChloeCondon) about how their initial experience has been and what they&#39;d do differently if they had a choice.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep21-breaking-into-devrel.mp3</guid>
+      <link>http://communitypulse.io/21-breaking-into-devrel/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>27:48</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>Meetups - Community Pulse Episode 20</title>
@@ -55,7 +68,7 @@
     </item>
     
     <item>
-      <title>Justin Reese at Uptime Conf (Episode 18) - Community Pulse Episode 18</title>
+      <title>Justin Reese at Uptime Conf - Community Pulse Episode 18</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
       <itunes:summary>Episode 18 finds Jason and PJ in Pittsburgh at Uptime Conf! We took the opportunity to sit down with Community Organizer and Pittsburgh Advocate, Justin Reese.</itunes:summary>
       <description>Episode 18 finds Jason and PJ in Pittsburgh at Uptime Conf! We took the opportunity to sit down with Community Organizer and Pittsburgh Advocate, Justin Reese.</description>
@@ -296,7 +309,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>

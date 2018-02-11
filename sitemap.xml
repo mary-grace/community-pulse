@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/21-breaking-into-devrel/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/20-meetups/</loc>
     <lastmod>2018-01-18T00:00:00+00:00</lastmod>
   </url>
@@ -124,7 +129,7 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,7 +165,7 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -171,8 +176,14 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/categories/devrel/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -225,7 +236,7 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

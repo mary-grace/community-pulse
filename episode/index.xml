@@ -6,10 +6,23 @@
     <description>Recent content in Episodes on Community Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://communitypulse.io/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breaking into DevRel</title>
+      <link>http://communitypulse.io/21-breaking-into-devrel/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/21-breaking-into-devrel/</guid>
+      <description>Links from this episode: DevRel / Tech Related: DevRel Weekly - http://devrelweekly.com/ Tito Event Software - https://ti.to/
+Books Thinking Fast and Slow by Daniel Kahneman - https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637 Better than Before by Gretchen Rubin - https://www.amazon.com/dp/B00NRQOR8K/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1
+Events Senty Scouts SF meetup - https://www.meetup.com/Sentry/ SF Tech Lady Picnic - https://www.meetup.com/SF-Tech-Lady-Picnic/ &amp;amp; https://twitter.com/TechLadyPicnic?lang=en
+Tools Toby Browser Extension - http://www.gettoby.com/ Notist Speaking Portfolio - https://noti.st/
+For Fun: Non Player Character at SFPlayhouse - https://www.sfplayhouse.org/sfph/2017-2018-season/non-player-character/ JukeBox - http://jqbx.</description>
+    </item>
     
     <item>
       <title>Meetups</title>
@@ -17,7 +30,7 @@
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/20-meetups/</guid>
-      <description></description>
+      <description>Links for this episode: The Community Pulse Podcast - https://apple.co/2Dqay7r Making Work Visible - http://amzn.to/2wukkPn CloudCraft - https://cloudcraft.co Halt and Catch Fire - http://www.amc.com/shows/halt-and-cat... Urban Ears - https://www.urbanears.com Code and Talk - https://codeandtalk.com Reply All Podcast - https://gimletmedia.com/reply-all Crimetown Podcast - https://gimletmedia.com/crimetown</description>
     </item>
     
     <item>
@@ -30,7 +43,7 @@
     </item>
     
     <item>
-      <title>Justin Reese at Uptime Conf (Episode 18)</title>
+      <title>Justin Reese at Uptime Conf</title>
       <link>http://communitypulse.io/18-justin-reese/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
