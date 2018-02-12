@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Community Pulse</title>
+    <title>Community Pulse</title>
     <link>http://communitypulse.io/categories/</link>
-    <description>Recent content in Categories on Community Pulse</description>
+    <description>Recent content on Community Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
@@ -12,83 +12,38 @@
     
     
     <item>
-      <title></title>
-      <link>http://communitypulse.io/categories/</link>
+      <title>Meetups</title>
+      <link>http://communitypulse.io/20-meetups/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://communitypulse.io/categories/</guid>
+      <guid>http://communitypulse.io/20-meetups/</guid>
+      <description>Links for this episode: The Community Pulse Podcast - https://apple.co/2Dqay7r Making Work Visible - http://amzn.to/2wukkPn CloudCraft - https://cloudcraft.co Halt and Catch Fire - http://www.amc.com/shows/halt-and-cat... Urban Ears - https://www.urbanears.com Code and Talk - https://codeandtalk.com Reply All Podcast - https://gimletmedia.com/reply-all Crimetown Podcast - https://gimletmedia.com/crimetown</description>
+    </item>
+    
+    <item>
+      <title>2017 In Review</title>
+      <link>http://communitypulse.io/19-2017review/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/19-2017review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Burnout</title>
-      <link>http://communitypulse.io/categories/burnout/</link>
-      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+      <title>Justin Reese at Uptime Conf</title>
+      <link>http://communitypulse.io/18-justin-reese/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://communitypulse.io/categories/burnout/</guid>
+      <guid>http://communitypulse.io/18-justin-reese/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Devopsdays</title>
-      <link>http://communitypulse.io/categories/devopsdays/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <title>Ignite&#39;ing Your Community</title>
+      <link>http://communitypulse.io/15-ignite/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://communitypulse.io/categories/devopsdays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Devrel</title>
-      <link>http://communitypulse.io/categories/devrel/</link>
-      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/categories/devrel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metrics</title>
-      <link>http://communitypulse.io/categories/metrics/</link>
-      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/categories/metrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Community</title>
-      <link>http://communitypulse.io/categories/new-community/</link>
-      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/categories/new-community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retrospectives</title>
-      <link>http://communitypulse.io/categories/retrospectives/</link>
-      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/categories/retrospectives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thought Leaders</title>
-      <link>http://communitypulse.io/categories/thought-leaders/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/categories/thought-leaders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>http://communitypulse.io/categories/travel/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/categories/travel/</guid>
+      <guid>http://communitypulse.io/15-ignite/</guid>
       <description></description>
     </item>
     
