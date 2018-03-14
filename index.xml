@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Fri, 9 Feb 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Hiring a DevRel Team: The Who, How, What, and When - Community Pulse Episode 22</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>PJ and Jason sit down with [Matt Broberg](https://twitter.com/mbbroberg), VP of Community at Sensu and [Jill Jubinski](https://twitter.com/jilljubs), ‎Senior Manager of Tech Recruiting at ‎Fastly to talk about hiring a Developer Relations team. From how to find the mythical creatures that form the right team to who your first hire should be, you&#39;ll learn about the who, how, what, and when of pulling together a Developer Relations team from scratch.</itunes:summary>
+      <description>PJ and Jason sit down with [Matt Broberg](https://twitter.com/mbbroberg), VP of Community at Sensu and [Jill Jubinski](https://twitter.com/jilljubs), ‎Senior Manager of Tech Recruiting at ‎Fastly to talk about hiring a Developer Relations team. From how to find the mythical creatures that form the right team to who your first hire should be, you&#39;ll learn about the who, how, what, and when of pulling together a Developer Relations team from scratch.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3</guid>
+      <link>http://communitypulse.io/22-hiring-devrel-team/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>41:25</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>Breaking Into DevRel - Community Pulse Episode 21</title>
@@ -309,7 +322,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
