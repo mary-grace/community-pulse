@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,15 +29,15 @@
     </itunes:category>
     
     <item>
-      <title>Hiring a DevRel Team: The Who, How, What, and When - Community Pulse Episode 22</title>
+      <title>How to Submit the Best CFP of Your Life (And What to Do When It Gets Accepted) - Community Pulse Episode 23</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>PJ and Jason sit down with [Matt Broberg](https://twitter.com/mbbroberg), VP of Community at Sensu and [Jill Jubinski](https://twitter.com/jilljubs), ‎Senior Manager of Tech Recruiting at ‎Fastly to talk about hiring a Developer Relations team. From how to find the mythical creatures that form the right team to who your first hire should be, you&#39;ll learn about the who, how, what, and when of pulling together a Developer Relations team from scratch.</itunes:summary>
-      <description>PJ and Jason sit down with [Matt Broberg](https://twitter.com/mbbroberg), VP of Community at Sensu and [Jill Jubinski](https://twitter.com/jilljubs), ‎Senior Manager of Tech Recruiting at ‎Fastly to talk about hiring a Developer Relations team. From how to find the mythical creatures that form the right team to who your first hire should be, you&#39;ll learn about the who, how, what, and when of pulling together a Developer Relations team from scratch.</description>
-      <enclosure url="http://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3" length="" type="audio/mpeg" />
-      <guid>http://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3</guid>
-      <link>http://communitypulse.io/22-hiring-devrel-team/</link>
-      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000 </pubDate>
-      <itunes:duration>41:25</itunes:duration>
+      <itunes:summary>Conference season is fast approaching, but we all know that the true preparation starts months ahead when all of the CFPs open. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo before you find out whether your talk has been accepted, and how to prepare the best talk once you&#39;ve gotten your acceptance notice. Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.</itunes:summary>
+      <description>Conference season is fast approaching, but we all know that the true preparation starts months ahead when all of the CFPs open. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo before you find out whether your talk has been accepted, and how to prepare the best talk once you&#39;ve gotten your acceptance notice. Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3</guid>
+      <link>http://communitypulse.io/23-cfps/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>45:41</itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
@@ -322,7 +322,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>

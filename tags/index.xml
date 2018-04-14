@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Community Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://communitypulse.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>http://communitypulse.io/tags/</link>
-      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/tags/</guid>
       <description></description>
@@ -30,11 +30,38 @@
     </item>
     
     <item>
+      <title>Cfps</title>
+      <link>http://communitypulse.io/tags/cfps/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/tags/cfps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://communitypulse.io/tags/conference/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Community</title>
       <link>http://communitypulse.io/tags/new-community/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/tags/new-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://communitypulse.io/tags/speaking/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/tags/speaking/</guid>
       <description></description>
     </item>
     

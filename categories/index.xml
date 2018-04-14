@@ -30,6 +30,24 @@
     </item>
     
     <item>
+      <title>Cfps</title>
+      <link>http://communitypulse.io/categories/cfps/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/categories/cfps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://communitypulse.io/categories/conference/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Devopsdays</title>
       <link>http://communitypulse.io/categories/devopsdays/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
@@ -41,7 +59,7 @@
     <item>
       <title>Devrel</title>
       <link>http://communitypulse.io/categories/devrel/</link>
-      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/categories/devrel/</guid>
       <description></description>
@@ -71,6 +89,15 @@
       <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/categories/retrospectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://communitypulse.io/categories/speaking/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/categories/speaking/</guid>
       <description></description>
     </item>
     

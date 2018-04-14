@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Community Pulse</title>
+    <link>http://communitypulse.io/tags/conference/</link>
+    <description>Recent content in Conference on Community Pulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://communitypulse.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Submit the Best CFP of your Life (and what to do when it gets accepted)</title>
+      <link>http://communitypulse.io/23-cfps/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/23-cfps/</guid>
+      <description>Links from the Show:  Forge Your Future with Open Source by VM (Vicky) Brasseur SeaGL Code of Practice: http://seagl.org/news/2018/04/09/code_of_practice.html Node Summit Speaker Preparation: http://www.nodesummit.com/speakers/speaker-preparation/ 20% off code for OSCON: VMB20   Checkouts: Jason: * Artistworks * Lukas Nelson &amp;amp; the Promise of the Real album * Devopsdays Rockies - watch the livestream on April 17-18 or keep an eye out for the videos
+Mary: * REdeployConf - Aug 16-17, San Francisco.</description>
+    </item>
+    
+  </channel>
+</rss>
