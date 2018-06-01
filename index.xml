@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Imposter Syndrome - Community Pulse Episode 24</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twitter.com/kelseyhightower) from Google Cloud Platform to chat about imposter syndrome: What is imposter syndrome? Is it a thing? How can we overcome imposter syndrome in ourselves? How can we prevent imposter syndrome in others?</itunes:summary>
+      <description>PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twitter.com/kelseyhightower) from Google Cloud Platform to chat about imposter syndrome: What is imposter syndrome? Is it a thing? How can we overcome imposter syndrome in ourselves? How can we prevent imposter syndrome in others?</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3</guid>
+      <link>http://communitypulse.io/24-imposter-syndrome/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>50:16</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>How to Submit the Best CFP of Your Life (And What to Do When It Gets Accepted) - Community Pulse Episode 23</title>
@@ -322,7 +335,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
