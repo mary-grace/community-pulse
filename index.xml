@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Thu, 7 Jun 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>After Pulse: Imposter Syndrome - Community Pulse Episode 24.1</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>PJ, Jason, and Mary sync up after the podcast recording with Kelsey Hightower (Episode 24: Imposter Syndrome) to recap the episode and share a few more thoughts.</itunes:summary>
+      <description>PJ, Jason, and Mary sync up after the podcast recording with Kelsey Hightower (Episode 24: Imposter Syndrome) to recap the episode and share a few more thoughts.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep24_1-imposter-ap.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep24_1-imposter-ap.mp3</guid>
+      <link>http://communitypulse.io/24ap/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>07:08</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>Imposter Syndrome - Community Pulse Episode 24</title>
@@ -335,7 +348,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>

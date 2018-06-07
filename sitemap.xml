@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/24ap/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/24-imposter-syndrome/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -156,6 +161,18 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/tags/after-pulse/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/after-pulse/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/tags/burnout/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -187,7 +204,7 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,7 +234,7 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -228,7 +245,7 @@
   
   <url>
     <loc>http://communitypulse.io/categories/imposter/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
