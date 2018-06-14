@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on Community Pulse</title>
+    <link>http://communitypulse.io/tags/teams/</link>
+    <description>Recent content in Teams on Community Pulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://communitypulse.io/tags/teams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team Dynamics -- Your Team, Other Teams, and the Company &#39;Team&#39;</title>
+      <link>http://communitypulse.io/25-team-dynamics/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/25-team-dynamics/</guid>
+      <description>Checkouts: Mary: * Nesting with Grace * Setting priorities with the Yearning Hierarchy * Mary&amp;rsquo;s blogpost about setting priorities
+PJ: * CodeDaze.me - Sept 14-15, Buffalo, NY. A conference dedicated to code, design, development, and everything tech! * The Get Up Kids - Kicker
+Jason: * DieCutStickers.com * Quiet: The Power of Introverts in a World That Can&amp;rsquo;t Stop Talking - Susan Cain
+Greg: * Coderdojo * CascadiaJS 2018</description>
+    </item>
+    
+  </channel>
+</rss>

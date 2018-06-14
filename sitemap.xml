@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://communitypulse.io/24ap/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/24-imposter-syndrome/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/23-cfps/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/25-team-dynamics/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -161,26 +151,14 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/after-pulse/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/categories/after-pulse/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://communitypulse.io/tags/burnout/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2016-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/categories/burnout/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2016-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,32 +169,14 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/cfps/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/categories/cfps/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/tags/communication/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/tags/conference/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/categories/conference/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,18 +194,12 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/host/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/categories/imposter/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -292,20 +246,20 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/speaking/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/categories/speaking/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://communitypulse.io/tags/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/teams/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/teams/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Thu, 7 Jun 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,41 +29,15 @@
     </itunes:category>
     
     <item>
-      <title>After Pulse: Imposter Syndrome - Community Pulse Episode 24.1</title>
+      <title>Team Dynamics -- Your Team, Other Teams, and the Company &#39;Team&#39; - Community Pulse Episode 25</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>PJ, Jason, and Mary sync up after the podcast recording with Kelsey Hightower (Episode 24: Imposter Syndrome) to recap the episode and share a few more thoughts.</itunes:summary>
-      <description>PJ, Jason, and Mary sync up after the podcast recording with Kelsey Hightower (Episode 24: Imposter Syndrome) to recap the episode and share a few more thoughts.</description>
-      <enclosure url="http://traffic.libsyn.com/communitypulse/ep24_1-imposter-ap.mp3" length="" type="audio/mpeg" />
-      <guid>http://traffic.libsyn.com/communitypulse/ep24_1-imposter-ap.mp3</guid>
-      <link>http://communitypulse.io/24ap/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000 </pubDate>
-      <itunes:duration>07:08</itunes:duration>
-      <itunes:explicit></itunes:explicit>
-    </item>
-    
-    <item>
-      <title>Imposter Syndrome - Community Pulse Episode 24</title>
-      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twitter.com/kelseyhightower) from Google Cloud Platform to chat about imposter syndrome: What is imposter syndrome? Is it a thing? How can we overcome imposter syndrome in ourselves? How can we prevent imposter syndrome in others?</itunes:summary>
-      <description>PJ, Jason, and Mary joined up with [Kelsey Hightower](https://twitter.com/kelseyhightower) from Google Cloud Platform to chat about imposter syndrome: What is imposter syndrome? Is it a thing? How can we overcome imposter syndrome in ourselves? How can we prevent imposter syndrome in others?</description>
-      <enclosure url="http://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3" length="" type="audio/mpeg" />
-      <guid>http://traffic.libsyn.com/communitypulse/ep24-imposter-syndrome.mp3</guid>
-      <link>http://communitypulse.io/24-imposter-syndrome/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000 </pubDate>
-      <itunes:duration>50:16</itunes:duration>
-      <itunes:explicit></itunes:explicit>
-    </item>
-    
-    <item>
-      <title>How to Submit the Best CFP of Your Life (And What to Do When It Gets Accepted) - Community Pulse Episode 23</title>
-      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>Conference season is fast approaching, but we all know that the true preparation starts months ahead when all of the CFPs open. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo before you find out whether your talk has been accepted, and how to prepare the best talk once you&#39;ve gotten your acceptance notice. Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.</itunes:summary>
-      <description>Conference season is fast approaching, but we all know that the true preparation starts months ahead when all of the CFPs open. In this episode of Community Pulse, Mary, PJ, and Jason sit down with Open Source Consultant and author [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) to chat about how to craft the best CFPs, navigating the land of limbo before you find out whether your talk has been accepted, and how to prepare the best talk once you&#39;ve gotten your acceptance notice. Buckle up and get your notebook ready -- this is an episode full of tips and tricks and good advice from an expert.</description>
-      <enclosure url="http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3" length="" type="audio/mpeg" />
-      <guid>http://traffic.libsyn.com/communitypulse/ep23-cfps.mp3</guid>
-      <link>http://communitypulse.io/23-cfps/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000 </pubDate>
-      <itunes:duration>45:41</itunes:duration>
+      <itunes:summary>We sit down with [J. Paul Reed](https://twitter.com/jpreed) and [Greg Bulmash](https://twitter.com/yiddishninja) to chat about team dynamics, working between departments, and setting boundaries for your DevRel team.</itunes:summary>
+      <description>We sit down with [J. Paul Reed](https://twitter.com/jpreed) and [Greg Bulmash](https://twitter.com/yiddishninja) to chat about team dynamics, working between departments, and setting boundaries for your DevRel team.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/Ep26-TeamDynamics.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/Ep26-TeamDynamics.mp3</guid>
+      <link>http://communitypulse.io/25-team-dynamics/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>45:34</itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     
@@ -348,7 +322,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
