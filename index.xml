@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>After Pulse: Team Dynamics - Community Pulse Episode 25ap</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>PJ, Jason, and Mary sync up after the podcast recording with J. Paul Reed and Greg Bulmash (Episode 25: Team Dynamics) to recap the episode and share a few more thoughts.</itunes:summary>
+      <description>PJ, Jason, and Mary sync up after the podcast recording with J. Paul Reed and Greg Bulmash (Episode 25: Team Dynamics) to recap the episode and share a few more thoughts.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep251-afterpulse-team-dynamics.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep251-afterpulse-team-dynamics.mp3</guid>
+      <link>http://communitypulse.io/25ap/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>00:17:35</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>Team Dynamics -- Your Team, Other Teams, and the Company &#39;Team&#39; - Community Pulse Episode 25</title>
@@ -322,7 +335,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
