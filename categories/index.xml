@@ -50,9 +50,18 @@
     <item>
       <title>Devrel</title>
       <link>http://communitypulse.io/categories/devrel/</link>
-      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/categories/devrel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>http://communitypulse.io/categories/growth/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/categories/growth/</guid>
       <description></description>
     </item>
     
@@ -80,6 +89,15 @@
       <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://communitypulse.io/categories/retrospectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://communitypulse.io/categories/team/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/categories/team/</guid>
       <description></description>
     </item>
     

@@ -31,8 +31,8 @@
     <item>
       <title>After Pulse: Team Dynamics - Community Pulse Episode 25ap</title>
       <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
-      <itunes:summary>PJ, Jason, and Mary sync up after the podcast recording with J. Paul Reed and Greg Bulmash (Episode 25: Team Dynamics) to recap the episode and share a few more thoughts.</itunes:summary>
-      <description>PJ, Jason, and Mary sync up after the podcast recording with J. Paul Reed and Greg Bulmash (Episode 25: Team Dynamics) to recap the episode and share a few more thoughts.</description>
+      <itunes:summary>PJ, Jason, and Mary sync up after the podcast recording with J. Paul Reed and Greg Bulmash (Episode 25: Team Dynamics). They talk about which teams DevRel does (and doesn&#39;t) fit into, why it&#39;s so important to communicate across teams, and the most important skill of DevRel professionals: flexibility.</itunes:summary>
+      <description>PJ, Jason, and Mary sync up after the podcast recording with J. Paul Reed and Greg Bulmash (Episode 25: Team Dynamics). They talk about which teams DevRel does (and doesn&#39;t) fit into, why it&#39;s so important to communicate across teams, and the most important skill of DevRel professionals: flexibility.</description>
       <enclosure url="http://traffic.libsyn.com/communitypulse/ep251-afterpulse-team-dynamics.mp3" length="" type="audio/mpeg" />
       <guid>http://traffic.libsyn.com/communitypulse/ep251-afterpulse-team-dynamics.mp3</guid>
       <link>http://communitypulse.io/25ap/</link>
@@ -51,6 +51,19 @@
       <link>http://communitypulse.io/25-team-dynamics/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000 </pubDate>
       <itunes:duration>45:34</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Hiring a DevRel Team: The Who, How, What, and When - Community Pulse Episode 22</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>PJ and Jason sit down with [Matt Broberg](https://twitter.com/mbbroberg), VP of Community at Sensu and [Jill Jubinski](https://twitter.com/jilljubs), ‎Senior Manager of Tech Recruiting at ‎Fastly to talk about hiring a Developer Relations team. From how to find the mythical creatures that form the right team to who your first hire should be, you&#39;ll learn about the who, how, what, and when of pulling together a Developer Relations team from scratch.</itunes:summary>
+      <description>PJ and Jason sit down with [Matt Broberg](https://twitter.com/mbbroberg), VP of Community at Sensu and [Jill Jubinski](https://twitter.com/jilljubs), ‎Senior Manager of Tech Recruiting at ‎Fastly to talk about hiring a Developer Relations team. From how to find the mythical creatures that form the right team to who your first hire should be, you&#39;ll learn about the who, how, what, and when of pulling together a Developer Relations team from scratch.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep22-hiring-devrel.mp3</guid>
+      <link>http://communitypulse.io/22-hiring-devrel-team/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>41:24</itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
     

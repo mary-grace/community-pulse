@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Community Pulse</title>
+    <link>http://communitypulse.io/categories/team/</link>
+    <description>Recent content in Team on Community Pulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://communitypulse.io/categories/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hiring a DevRel Team: The Who, How, What, and When</title>
+      <link>http://communitypulse.io/22-hiring-devrel-team/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/22-hiring-devrel-team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

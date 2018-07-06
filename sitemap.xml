@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/22-hiring-devrel-team/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/21-breaking-into-devrel/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
@@ -139,7 +144,7 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,13 +210,19 @@
   
   <url>
     <loc>http://communitypulse.io/categories/devrel/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/growth/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -264,7 +275,13 @@
   
   <url>
     <loc>http://communitypulse.io/tags/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/team/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
