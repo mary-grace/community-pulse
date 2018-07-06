@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/24ap/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/24-imposter-syndrome/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/23-cfps/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/22-hiring-devrel-team/</loc>
     <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -161,6 +176,12 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/categories/after-pulse/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/tags/afterpulse/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -185,8 +206,26 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/categories/career/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/categories/</loc>
     <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/cfp/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/cfps/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -210,13 +249,19 @@
   
   <url>
     <loc>http://communitypulse.io/categories/devrel/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/events/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -270,6 +315,12 @@
   <url>
     <loc>http://communitypulse.io/categories/retrospectives/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/speaking/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
