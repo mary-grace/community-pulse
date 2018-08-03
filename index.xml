@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Funemployment &amp; Downtime - Community Pulse Episode 26</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>What happens when you step out of the office and take a break for a while? Whether vacation or funemployment, downtime is important. But how do we do this while continuing to be part of our communities? Jason &amp; PJ chat about these topics &amp; more.</itunes:summary>
+      <description>What happens when you step out of the office and take a break for a while? Whether vacation or funemployment, downtime is important. But how do we do this while continuing to be part of our communities? Jason &amp; PJ chat about these topics &amp; more.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep26-funemployment.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep26-funemployment.mp3</guid>
+      <link>http://communitypulse.io/26-funemployment-downtime/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>38:51</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>After Pulse: Team Dynamics - Community Pulse Episode 25ap</title>
@@ -387,7 +400,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
