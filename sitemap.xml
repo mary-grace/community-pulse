@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/27-content-is-key/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/26-funemployment-downtime/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -242,7 +247,25 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/content/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/content-creation/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/content-management/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,7 +283,7 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

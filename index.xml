@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Content Is Key! - Community Pulse Episode 27</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>One important part of the Dev Advocate lifestyle is content creation, This can range from penning the perfect tweet to blog posts to docs and tutorials. Content matters when it comes to interacting with the Community. We’ll talk about content creation and working with folks who are not content creators to make the best of your project or community’s written record.</itunes:summary>
+      <description>One important part of the Dev Advocate lifestyle is content creation, This can range from penning the perfect tweet to blog posts to docs and tutorials. Content matters when it comes to interacting with the Community. We’ll talk about content creation and working with folks who are not content creators to make the best of your project or community’s written record.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep27-content.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep27-content.mp3</guid>
+      <link>http://communitypulse.io/27-content-is-key/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>39:51</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>Funemployment &amp; Downtime - Community Pulse Episode 26</title>
@@ -400,7 +413,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
