@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Fri, 5 Oct 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>RelationshipsIRL - Community Pulse Episode 28</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Mary opens up to PJ and Jason about struggles to create an in-person personal community when we&#39;re so often on the road. Even us extroverts need some downtime from the tech community and a chance to connect with friends, but how do we go about creating deep friendships when we aren&#39;t home to invest in them?</itunes:summary>
+      <description>Mary opens up to PJ and Jason about struggles to create an in-person personal community when we&#39;re so often on the road. Even us extroverts need some downtime from the tech community and a chance to connect with friends, but how do we go about creating deep friendships when we aren&#39;t home to invest in them?</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/CPEp28-RelationshipsIRL.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/CPEp28-RelationshipsIRL.mp3</guid>
+      <link>http://communitypulse.io/28-relationships-irl/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>36:55</itunes:duration>
+      <itunes:explicit></itunes:explicit>
+    </item>
     
     <item>
       <title>After Pulse: Content Is Key - Community Pulse Episode 27ap</title>
@@ -426,7 +439,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>

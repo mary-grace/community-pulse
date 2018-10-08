@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Community Pulse</title>
-    <link>http://communitypulse.io/categories/travel/</link>
-    <description>Recent content in Travel on Community Pulse</description>
+    <title>Relationships on Community Pulse</title>
+    <link>http://communitypulse.io/tags/relationships/</link>
+    <description>Recent content in Relationships on Community Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://communitypulse.io/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://communitypulse.io/tags/relationships/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,15 +24,6 @@
  Insta360 One  PJ:
  PJ is committing to have an album out by the end of the year. Stay tuned (pun fully intended)!
  Jolt Cola has returned to stores! &amp;ldquo;All the sugar and twice the caffeine.&amp;rdquo;  Sponsored by: IBM Developer Are you building cloud applications with Java, AI, Machine Learning, Serverless and Containers?</description>
-    </item>
-    
-    <item>
-      <title>Same Job, New City</title>
-      <link>http://communitypulse.io/12-same-job-new-city/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://communitypulse.io/12-same-job-new-city/</guid>
-      <description></description>
     </item>
     
   </channel>
