@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/29-coc/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/28-relationships-irl/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -256,14 +261,32 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/tags/coc/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/code-of-conduct/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/tags/communication/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/</loc>
+    <loc>http://communitypulse.io/tags/community/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -310,8 +333,14 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/categories/diversity/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -329,6 +358,12 @@
   
   <url>
     <loc>http://communitypulse.io/host/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/inclusivity/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,19 @@
     <description>Recent content in Episodes on Community Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://communitypulse.io/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Codes of Conduct</title>
+      <link>http://communitypulse.io/29-coc/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/29-coc/</guid>
+      <description>Show notes Check Outs  Tessa  Event - APICity.io  Justin  Event - Abstractions.io Voting/Polling location  Carina  Book - &amp;ldquo;How Can It Be Gluten Free Cookbook&amp;rdquo;  Jason  Codes of Conduct 101 FAQ Geek Feminism Code of Conduct GitHub Project CoC Goals of a Code of Conduct (From Microsoft&amp;rsquo;s Cloud Developer Advocacy team)  To specify a baseline standard of behavior so that people with different social values and communication styles can communicate effectively, productively, and respectfully To provide a mechanism for resolving conflicts when they arise.</description>
+    </item>
     
     <item>
       <title>RelationshipsIRL</title>
