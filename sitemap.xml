@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/30-twitter/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/29ap/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -188,14 +193,14 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/tags/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/categories/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,20 +211,14 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/after-pulse/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://communitypulse.io/tags/after-pulse/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/afterpulse/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/categories/after-pulse/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -230,13 +229,19 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/burnout/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/categories/afterpulse/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/tags/burnout/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/burnout/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -272,13 +277,13 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/code-of-conduct/</loc>
+    <loc>http://communitypulse.io/tags/code-of-conduct/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/code-of-conduct/</loc>
+    <loc>http://communitypulse.io/categories/code-of-conduct/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -297,13 +302,7 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://communitypulse.io/categories/content/</loc>
-    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -314,13 +313,19 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/content-creation/</loc>
+    <loc>http://communitypulse.io/categories/content/</loc>
     <lastmod>2018-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://communitypulse.io/tags/content-creation/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/content-creation/</loc>
     <lastmod>2018-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -351,7 +356,7 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -393,13 +398,13 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/new-community/</loc>
+    <loc>http://communitypulse.io/tags/new-community/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/new-community/</loc>
+    <loc>http://communitypulse.io/categories/new-community/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -433,6 +438,18 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/tags/social-media/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/social-media/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/tags/speaking/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -451,13 +468,13 @@
   </url>
   
   <url>
-    <loc>http://communitypulse.io/categories/teams/</loc>
+    <loc>http://communitypulse.io/tags/teams/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/teams/</loc>
+    <loc>http://communitypulse.io/categories/teams/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -469,14 +486,20 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/tags/travel/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/categories/travel/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://communitypulse.io/tags/travel/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <loc>http://communitypulse.io/categories/twitter/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

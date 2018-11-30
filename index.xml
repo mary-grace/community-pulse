@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>Twitter: Friend or Foe? - Community Pulse Episode 30</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Description: Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use everyday to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?</itunes:summary>
+      <description>Description: Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use everyday to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/Episode_30_-_Twitter_Friend_or_Foe.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/Episode_30_-_Twitter_Friend_or_Foe.mp3</guid>
+      <link>http://communitypulse.io/30-twitter/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>48:17</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
     
     <item>
       <title>After Pulse: Codes of Conduct - Community Pulse Episode 29ap</title>
@@ -465,7 +478,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>
