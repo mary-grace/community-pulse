@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wrap Up on Community Pulse</title>
+    <link>http://communitypulse.io/tags/wrap-up/</link>
+    <description>Recent content in Wrap Up on Community Pulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://communitypulse.io/tags/wrap-up/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 Wrap-up</title>
+      <link>http://communitypulse.io/31-2018wrapup/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/31-2018wrapup/</guid>
+      <description>Check Outs  PJ  FireFox has redeemed itself recently. With better performance it may go back to being my default browser over the security-flawed and processor-heavy Chrome. Something Wicked This Way Comes by Ray Bradbury  Mary  The ONE Thing by Gary Keller &amp;amp; Jay Papasan Start: Punch Fear in the Face, Escape Average, and Do Work That Matters by Jon Acuff Becoming by Michelle Obama &amp;ndash; she narrates the audiobook version  Jason  Attack of the 50 Foot Blockchain by David Gerard Headspace App   Sponsored by: IBM Developer Are you building cloud applications with Java, AI, Machine Learning, Serverless and Containers?</description>
+    </item>
+    
+  </channel>
+</rss>

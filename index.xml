@@ -12,7 +12,7 @@
     <title>Community Pulse</title>
     <atom:link href="https://www.communitypulse.io/index.xml" rel="self" type="application/rss+xml" />
     <link>http://communitypulse.io/</link>
-    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -27,6 +27,19 @@
     <itunes:image href="/img/communitypulse-logo.png" />
     <itunes:category text="Technology">
     </itunes:category>
+    
+    <item>
+      <title>2018 Wrap-Up - Community Pulse Episode 31</title>
+      <itunes:author>Jason Hand, Mary Thengvall, PJ Hagerty</itunes:author>
+      <itunes:summary>Mary, PJ, and Jason gather to chat about 2018: the rewards as well as the struggles. Per usual, there are tangents galore from the hosts you&#39;ve come to love along with observations about how DevRel has come and what we might see in the future.</itunes:summary>
+      <description>Mary, PJ, and Jason gather to chat about 2018: the rewards as well as the struggles. Per usual, there are tangents galore from the hosts you&#39;ve come to love along with observations about how DevRel has come and what we might see in the future.</description>
+      <enclosure url="http://traffic.libsyn.com/communitypulse/ep31-2018wrapup.mp3" length="" type="audio/mpeg" />
+      <guid>http://traffic.libsyn.com/communitypulse/ep31-2018wrapup.mp3</guid>
+      <link>http://communitypulse.io/31-2018wrapup/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000 </pubDate>
+      <itunes:duration>39:10</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
     
     <item>
       <title>Twitter: Friend or Foe? - Community Pulse Episode 30</title>
@@ -478,7 +491,7 @@
       <enclosure url="" length="" type="audio/mpeg" />
       <guid></guid>
       <link>http://communitypulse.io/episode/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000 </pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000 </pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit></itunes:explicit>
     </item>

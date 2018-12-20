@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/31-2018wrapup/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/30-twitter/</loc>
     <lastmod>2018-11-30T00:00:00+00:00</lastmod>
   </url>
@@ -302,7 +307,7 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -356,7 +361,7 @@
   
   <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -428,6 +433,12 @@
   <url>
     <loc>http://communitypulse.io/tags/relationships/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/retrospective/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -506,6 +517,18 @@
   <url>
     <loc>http://communitypulse.io/tags/vacation/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/wrap-up/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/wrap-up/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
