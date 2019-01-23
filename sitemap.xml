@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://communitypulse.io/32-bigco-littleco/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/31-2018wrapup/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
   </url>
@@ -307,7 +312,7 @@
   
   <url>
     <loc>http://communitypulse.io/</loc>
-    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -342,6 +347,18 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/tags/culture/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/categories/culture/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/categories/devopsdays/</loc>
     <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -360,8 +377,14 @@
   </url>
   
   <url>
+    <loc>http://communitypulse.io/tags/enterprise/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://communitypulse.io/episode/</loc>
-    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -463,6 +486,12 @@
   <url>
     <loc>http://communitypulse.io/tags/speaking/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://communitypulse.io/tags/startups/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

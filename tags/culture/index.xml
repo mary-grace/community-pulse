@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture on Community Pulse</title>
+    <link>http://communitypulse.io/tags/culture/</link>
+    <description>Recent content in Culture on Community Pulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://communitypulse.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Company, Little Company - The Differences in DevRel at Large and Small Companies</title>
+      <link>http://communitypulse.io/32-bigco-littleco/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://communitypulse.io/32-bigco-littleco/</guid>
+      <description>Check Outs  Jason  Tribes: We Need You to Lead Us by Seth Godin The Art of Gathering: How We Meet and Why It Matters by Priya Parker  Matt  DevRel is company-specific. Every company has different needs and different expecations. Discover what your company needs and then find others who are in similar places so that you have people to watch and learn from.  Nathen  Trapeze School New York Be in awe of the work others do, regardless of what that work is.</description>
+    </item>
+    
+  </channel>
+</rss>
